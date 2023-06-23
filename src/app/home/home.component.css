@@ -1,0 +1,38 @@
+h1{
+  text-align:center;
+  color:#030986;
+  font-family:Cursive;
+}
+p{
+  color:black;
+  font-style:Normal;
+}
+h3{
+  color:#056193;
+}
+body{
+  background-color:#D2EFF8;
+}
+td{
+  text-align:center;
+}
+table{
+  border-collapse: collapse;
+}
+.borderedtable{
+  border: 1px solid black;
+}
+th{
+  text-align:center;
+  border: 1px solid black;
+  background-color:#FBDE87;
+  color:#5498A0;
+}
+a{
+  color:red;
+  font-style:Italic;
+}
+.applications{
+  font-style:Italic;
+  color:#095C4E;
+}

@@ -1,0 +1,10 @@
+.active{
+    font-family: bold;
+    color: yellow !important;
+}
+.cart{
+    
+    color: cornsilk;
+    margin-top: 14px;
+    margin-left: 40px;
+}
